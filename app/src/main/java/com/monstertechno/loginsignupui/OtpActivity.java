@@ -11,6 +11,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
+import com.chaos.view.PinView;
+
 public class OtpActivity extends AppCompatActivity {
 
 
